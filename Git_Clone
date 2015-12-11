@@ -1,1 +1,3 @@
-What does git clone do?, in your own words
+What does git clone do?, in your own words.
+
+Git clone, makes a copy of an existing repo including all data that is on the server and puts it in a new directory. 
